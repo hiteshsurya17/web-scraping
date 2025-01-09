@@ -1,0 +1,130 @@
+Spain - LaLiga:
+FT Valencia 0 - 0 Osasuna
+FT Sevilla 2 - 1 Real Valladolid
+FT Real Madrid 3 - 2 Deportivo Alaves
+
+Italy - Serie A:
+FT Atalanta 2 - 3 Como
+
+England - Carabao Cup:
+FT Walsall 0 - 0 Leicester
+FT Chelsea 5 - 0 Barrow
+FT Manchester City 2 - 1 Watford
+FT Wycombe 1 - 2 Aston Villa
+
+International - Copa Libertadores:
+AGG 1 - 1 River Plate  -  Colo Colo
+
+Italy - Coppa Italia:
+FT Lecce 0 - 2 Sassuolo
+FT Cagliari 1 - 0 Cremonese
+FT Torino 1 - 2 Empoli
+
+International - Copa Sudamericana:
+AGG 2 - 0 Corinthians  -  Fortaleza
+
+Chile - Primera Division:
+FT Palestino 2 - 0 Deportes Iquique
+FT Cobreloa 0 - 1 CD Nublense
+34'  Coquimbo Unido 0 - 1 Everton CD
+35'  Universidad de Chile 1 - 0 Huachipato
+
+Algeria - 1. Division:
+FT MC Oran 2 - 0 JS Saoura
+
+Armenia - Premier League:
+FT FC Noah 2 - 0 Pyunik
+
+Brazil - Serie B:
+74'  Operario Ferroviario 1 - 0 Guarani
+
+Colombia - Cup:
+AGG 0 - 1 Deportivo Cali  -  Fortaleza FC
+
+England - EFL Trophy:
+FT Burton 1 - 2 Notts Co.
+
+England - League One:
+FT Wigan 0 - 0 Stevenage
+FT Huddersfield 0 - 2 Blackpool
+FT Leyton Orient 2 - 2 Peterborough
+
+England - National League:
+FT Altrincham 2 - 1 Dag and Red
+FT Sutton United 0 - 0 Yeovil
+FT Maidenhead United 2 - 1 Ebbsfleet United
+FT Wealdstone 1 - 1 Southend
+FT Gateshead 2 - 0 Boston United
+FT Aldershot 0 - 1 Barnet
+FT Oldham 1 - 0 Forest Green
+FT Braintree Town 1 - 0 Halifax
+FT Solihull Moors 0 - 3 York
+FT Hartlepool 0 - 3 Rochdale
+FT Eastleigh 2 - 2 Woking
+FT AFC Fylde 1 - 2 Tamworth
+
+England - National League North/South:
+FT Leamington 4 - 1 Oxford City
+
+England - Northern Premier League:
+FT Macclesfield 2 - 0 Gainsborough
+FT Basingstoke 1 - 0 Walton and Hersham
+FT Poole Town FC 3 - 1 Plymouth Parkway
+FT Hanwell Town 0 - 1 Sholing
+FT Bromsgrove Sporting 1 - 2 Redditch United
+FT Kettering Town FC 2 - 0 Stamford AFC
+FT Royston Town 2 - 2 Hitchin Town
+FT Merthyr Town 3 - 1 Winchester City
+FT Stratford Town 1 - 1 Banbury United
+FT Taunton Town 3 - 1 Swindon Supermarine
+
+France - Ligue 2:
+FT Metz 6 - 0 Martigues
+FT Clermont Foot 1 - 1 Red Star
+FT Caen 2 - 1 Amiens
+FT Paris FC 2 - 0 Guingamp
+FT Pau 1 - 0 Lorient
+FT Rodez 1 - 3 Laval
+
+Germany - 3. Liga:
+FT Hansa Rostock 4 - 1 Unterhaching
+FT Sandhausen 4 - 3 Ingolstadt
+FT Erzgebirge Aue 2 - 1 Wehen Wiesbaden
+
+Italy - Serie C:
+FT AlbinoLeffe 0 - 0 Pro Patria
+FT LR Vicenza 1 - 0 Renate
+FT S.S. Arezzo 2 - 0 Gubbio
+FT Novara 1 - 0 Pro Vercelli
+FT Turris 0 - 0 Avellino
+FT Calcio Padova 4 - 1 Virtus Verona
+FT Casertana 2 - 0 Taranto
+
+Northern Ireland - Premiership:
+FT Larne 2 - 0 Loughgall
+
+Poland - FA Cup:
+FT Sandecja Nowy Sacz 3 - 2 Cracovia
+FT Elana Torun 1 - 3 Widzew Lodz
+FT Wisla Plock 0 - 1 Warta Poznan
+FT Termalica Nieciecza 1 - 2 GKS Katowice
+FT Stal Rzeszow 0 - 3 Pogon Szczecin
+
+Saudi Arabia - King Cup:
+FT Al Bukayriyah 0 - 1 Al Hilal
+FT Al Jabalain 2 - 0 Al Fateh FC
+FT Al Kholood 1 - 3 Al Shabab
+FT Al Ittihad 3 - 0 Al Ain
+
+South Africa - Premier Soccer League:
+FT Orlando Pirates 3 - 0 Polokwane City
+FT Mamelodi Sundowns FC 4 - 1 Marumo Gallants
+FT Royal AM 0 - 0 Richards Bay
+
+Wales - Premier League:
+FT Penybont 0 - 1 Briton Ferry
+FT TNS 2 - 3 Bala Town
+FT Haverfordwest 1 - 1 Barry Town
+FT Connah's Quay Nomads 1 - 1 Newtown
+FT Aberystwyth 1 - 2 Cardiff Met University
+
